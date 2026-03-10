@@ -1,0 +1,18 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# Database
+db.sqlite3
+
+# Django Secret Key (if you move it to a .env file later)
+.env
+
+# Static/Media files (usually handled by the server in production)
+media/
